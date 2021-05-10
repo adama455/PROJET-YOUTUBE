@@ -1,0 +1,221 @@
+#Haut
+ {
+     display: flex;
+     margin-top: 7px;
+ }
+#logo
+ {
+    margin-left: 10px;
+
+ }
+.Recherche
+ {
+    position: absolute;
+    right: 350px;
+    top: 10px;
+ }
+.input
+    {
+
+        height: 35px;
+        font-size: 16px;
+    } 
+#RECH
+    {
+        height: 33px;
+        position: absolute;
+        left: 903px; 
+        top: 12px; 
+    }
+#Icone
+ {
+     position: absolute;
+     right: 50px;
+ }
+#Hr1
+ {
+     position: absolute;
+     width: 1120px;
+     right: 0px;
+     top: 40px;
+ }
+ /*Les Formes en haut*/
+#MenuHaut
+ {
+     display: flex;
+     margin-top: 25px;
+     margin-left: 270px;
+ }
+#B1
+ {
+     position: absolute;
+     font-size: 16px;
+     background-color:gray ;
+     border-radius: 20px;
+     height: 35px;
+     color: white;
+     font-weight: bold;
+     text-align: center;
+ }
+ #B3
+ {
+     position: absolute;
+     font-size: 16px;
+     border-radius: 20px;
+     height: 35px;
+     color: black;
+     font-weight: bold;
+     left: 730px;
+     text-align: center;
+ }
+ #B2
+ {
+     position: absolute;
+     font-size: 16px;
+     border-radius: 20px;
+     height: 35px;
+     color: black;
+     font-weight: bold;
+     right: 265px;
+     text-align: center;
+ }
+ #B4
+ {
+     position: absolute;
+     font-size: 16px;
+     border-radius: 20px;
+     height: 35px;
+     color: black;
+     font-weight: bold;
+     left: 545px;
+     text-align: center;
+ }
+ #B5
+ {
+     position: absolute;
+     font-size: 16px;
+     border-radius: 20px;
+     height: 35px;
+     color:black;
+     font-weight: bold;
+     left: 340px;
+     text-align: center;
+ }
+ #B6
+    {
+     position: absolute;
+     font-size: 16px;
+     border-radius: 20px;
+     height: 35px;
+     color: black;
+     font-weight: bold;
+     right: 28px;
+     text-align: center;
+    }
+ 
+ #Hr2
+    {
+        position: absolute;
+        width: 1120px;
+        right: 0px;
+        top: 95px;
+    }
+ .Hr3
+    {
+        position: absolute;
+        width: 1120px;
+        right: 0px;
+        top: 95px;
+    }
+ /*Menu Gauche*/
+ #MenuGauche
+    {
+        display: grid;
+        margin-top: -40px;
+    }
+.P1
+    {
+        display: grid;
+    }
+.P2
+    {
+        display: grid;
+    }
+    .P3
+    {
+        display: grid;
+    }
+#ic
+    {
+        position: absolute;
+        left: 2px;
+    }
+.icones
+    {
+        
+        padding: 8px;
+    }
+
+#Gauche
+    {
+        position: absolute;
+        top: 100px;
+    }
+#MenuGauche a
+    {
+        color: black;
+    }
+#MenuGauche a:hover
+    {
+        background: #e5e5e5;
+        background-size: 100px;
+        color: #030303;
+        text-decoration: none;
+    }
+a
+    {
+        color: black;
+    }
+a:hover
+    {
+        color: #030303;
+        text-decoration: none;
+    }
+
+hr
+    {
+        position: absolute;
+      
+    }
+.Contenuvideo
+    {
+       position: absolute; 
+       left: 300px;
+        top: 150px;  
+    }
+.rang2
+    {
+        position: absolute;
+        top: 340px;
+    }
+.SS
+    {
+        margin-left: 55px;
+        margin-top: -55px;
+        
+    }
+
+.TT
+    {
+        color: #606060;
+        font-size: 14px;
+        line-height: 18px;
+        font-family: roboto, Arial, sans-serif;
+    }
+#MenuGauche
+    {
+        position: absolute;
+        left: 2px;
+        top: 114px;
+        font-family: roboto, Arial, sans-serif;
+    }
